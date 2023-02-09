@@ -58,7 +58,7 @@ export default function Proyectos({ }) {
         </div>
       </section>
       <section>
-        <h1>Crear Proyecto</h1>
+        <h1>Hola</h1>
         <div>
           <label htmlFor="first">Nombre Proyecto</label>
           <input type="text" id="first" name="first" required/>
